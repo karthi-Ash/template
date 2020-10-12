@@ -1,0 +1,98 @@
+ul.no-bullets {
+	float:right;
+    list-style-type:none;
+    margin-left:15px;
+    padding:0;
+    font-size:16px;
+}
+div.head{
+	background-color:#E6E6FA;
+	height:165px;
+	font-family: sans-serif;
+}
+button.email {
+	background-color :#00CED1;
+	border:none;
+	color:white;
+	padding:8px 10px;
+	text-align:center;
+	font-size:12px;
+	cursor:pointer;
+	display:inline-block;
+	margin:4px 2px;
+	
+}
+
+button.project{
+	background-color:grey;
+	border:none;
+	color:white;
+	padding:8px 10px;
+	text-align:center;
+	font-size:12px;
+	cursor:pointer;
+	display:inline-block;
+	margin:4px 2px;
+	text-align:center;
+}
+nav.text-center{
+	text-align:center;
+}
+div.center{
+	font-size:20px;
+	text-align:center;
+	padding:20px;
+}
+div.column{
+	float:left;
+	width:33.33%;
+	padding:5px;
+}
+div.row{
+	content:"";
+	clear:both;
+	display:flex;
+}
+img.pho{
+	width:400px;
+	height:260px;
+	opacity:0.7;
+}
+div.background{
+	background-color:grey;
+	height:300px;
+}
+div.div1 {
+	width:300px;
+	height:180px;
+	border:1px;
+	background-color:white;
+	color:black;
+	display:inline-block;
+    display:center;
+	position:absolute;
+	z-index:15;
+	down:80%;
+	left:50%;
+	margin: 30px 0 0 -300px;
+	
+}
+div.div2{
+	width:300px;
+	height:180px;
+	border:1px;
+	background-color:black;
+	color:white;
+	display:inline-block;
+	float:right;
+	margin:auto;
+	position:absolute;
+	z-index:15;
+	down:80%;
+	left:50%;
+	margin: 30px 0 0 70px;
+	
+	
+}
+
+	
